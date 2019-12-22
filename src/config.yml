@@ -54,4 +54,4 @@ tablist:
   # Customize the tablist suffix, use %ping% to indicate player's latency. Set this to "" to disable.
   suffix: ""
   # Update delay time (in seconds) - 5 means that the tablist is updated every 5 seconds.
-  update-delay: 5
+  update-delay: 1
